@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/purnima-pathak-pu999/">
+<a href="https://www.linkedin.com/in/purnima-pathak9/">
   <img align="left" alt="Purnima's linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/purnimapathak999?hr_r=1">
