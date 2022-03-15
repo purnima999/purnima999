@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href=https://reactjs.org/ target="_blank"> <img src="https://camo.githubusercontent.com/48d099290b4cb2d7937bcd96e8497cf1845b54a810a6432c70cf944b60b40c77/68747470733a2f2f7261776769742e636f6d2f676f72616e67616a69632f72656163742d69636f6e732f6d61737465722f72656163742d69636f6e732e737667" alt="react" width="40" height="40"/> </a> <a href=https://react-redux.js.org/ target="_blank"> <img src=" https://icon-sets.iconify.design/logos/redux/" alt="redux" width="40" height="40"/> </a> <a href=https://redux-saga.js.org/ target="_blank"> <img src=" 	https://redux-saga.js.org/img/Redux-Saga-Logo.png" alt="saga" width="40" height="40"/> </a> 
+  <a href=https://reactjs.org/ target="_blank"> <img src="https://camo.githubusercontent.com/48d099290b4cb2d7937bcd96e8497cf1845b54a810a6432c70cf944b60b40c77/68747470733a2f2f7261776769742e636f6d2f676f72616e67616a69632f72656163742d69636f6e732f6d61737465722f72656163742d69636f6e732e737667" alt="react" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhdFgKwWT0BD32WAPhBz04H7yjV1VMu7axw&usqp=CAU" alt="javascript" width="40" height="40"/> </a> 
  
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   
