@@ -1,5 +1,5 @@
 <h1 align="center">Hola, I'm Purnima Pathak</h1>
-<img align="right" alt="Coding" width="400"  src="https://github.com/purnima999/purnima999/blob/main/code.gif">
+<p align ="right"><img align="right" alt="Coding" width="400"  src="https://github.com/purnima999/purnima999/blob/main/code.gif"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purnima999&label=Profile%20views&color=0e75b6&style=flat" alt="purnima999" /> </p>
 
