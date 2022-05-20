@@ -1,7 +1,7 @@
 <h1 align="center">Hola, I'm Purnima Pathak</h1>
 <p align ="right"><img alt="Coding" width="400"  src="https://github.com/purnima999/purnima999/blob/main/code.gif"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=purnima999&label=Profile%20views&color=0e75b6&style=flat" alt="purnima999" /> </p>
+<p align="left" padding-top="-30px"> <img src="https://komarev.com/ghpvc/?username=purnima999&label=Profile%20views&color=0e75b6&style=flat" alt="purnima999" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://epic-spence-3ef320.netlify.app/](https://epic-spence-3ef320.netlify.app/)
 
